@@ -1,7 +1,6 @@
 # ValorantToolkit
-Çok önceden böyle bir kod yazmıştım,büyük ihtimalle hala çalışıyordur.Bu program instalock ve chat spammerdan oluşuyor.
-Bne programladım diye gezen ucubeler varsa onlara selam burası github hani kod falan paylaşıyoz.
+I wrote such a code a long time ago, it's probably still working. This script consists of instalock and chat spammer. If there are any freaks walking around saying I programmed it, hello to them, this is github where we share code and stuff.
 
-Uygulamadan örnek bir görüntü:
+A sample image from the application:
 
 ![menu](https://github.com/PythonGunlukleri/ValorantToolkit/blob/main/hey.png?raw=true)
